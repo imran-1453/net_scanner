@@ -25,3 +25,10 @@ def scan_my_network(ip_adress):
 user_input_ip = input_object()
 
 scan_my_network(ip_adress=user_input_ip)
+
+
+''' https://i.hizliresim.com/pxu1zit.png
+https://i.hizliresim.com/dzc3a7z.png
+https://i.hizliresim.com/fcxgu32.png
+https://i.hizliresim.com/2bz3otq.png
+'''
